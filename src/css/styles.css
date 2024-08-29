@@ -594,6 +594,14 @@ video {
   place-content: space-between;
 }
 
+.place-items-start {
+  place-items: start;
+}
+
+.place-items-center {
+  place-items: center;
+}
+
 .items-start {
   align-items: flex-start;
 }
